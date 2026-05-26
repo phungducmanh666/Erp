@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Sources\Main\Exceptions\" />
+    <Folder Include="Sources\Main\Enums\" />
+    <Folder Include="Sources\Main\Events\" />
+    <Folder Include="Sources\Main\Interfaces\" />
+    <Folder Include="Sources\Main\Services\" />
+  </ItemGroup>
+
 </Project>
